@@ -22,7 +22,7 @@
 **IDS das teclas**
 Arquivo pode ser lido após abrir o programa pela primeira vez
 
-First Header | Second Header
+ID | Nome
 ------------ | -------------
 0 | None
 1 | LButton
