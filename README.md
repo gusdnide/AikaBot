@@ -14,8 +14,7 @@
     "PararBot":113}
 ```
 **IDS das teclas** Arquivo pode ser lido após abrir o programa pela primeira vez
-TeclaID      |    TeclaNome 
------------- | -------------
+ID|NOME
 0|None
 1|LButton
 2|RButton
