@@ -1,7 +1,7 @@
-##AikaBot
+## AikaBot
 ![print](https://i.imgur.com/7mxyakO.jpg)
 ---
-###Configuraçoes
+### Configuraçoes
 
 **Config.json** Arquivo a ser configurado.
 ```json
