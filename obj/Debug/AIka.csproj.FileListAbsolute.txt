@@ -1,0 +1,11 @@
+C:\Users\gusd2\source\repos\AikaBot\AIka\bin\Debug\AIka.exe.config
+C:\Users\gusd2\source\repos\AikaBot\AIka\bin\Debug\AIka.exe
+C:\Users\gusd2\source\repos\AikaBot\AIka\bin\Debug\AIka.pdb
+C:\Users\gusd2\source\repos\AikaBot\AIka\obj\Debug\AIka.csprojAssemblyReference.cache
+C:\Users\gusd2\source\repos\AikaBot\AIka\obj\Debug\AIka.csproj.CoreCompileInputs.cache
+C:\Users\gusd2\source\repos\AikaBot\AIka\obj\Debug\AIka.exe
+C:\Users\gusd2\source\repos\AikaBot\AIka\obj\Debug\AIka.pdb
+C:\Users\gusd2\source\repos\AikaBot\AIka\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gusd2\source\repos\AikaBot\AIka\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\gusd2\source\repos\AikaBot\AIka\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gusd2\source\repos\AikaBot\AIka\obj\Debug\AIka.csproj.CopyComplete
